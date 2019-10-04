@@ -1571,4 +1571,10 @@ var hacktobermap = [
     latitude: 33.748550,
     longitude: -84.391502 
   },
+  {
+    name: "Ozy",
+    location: "Surabaya, ID",
+    latitute: -7.257472,
+    longtitude: 112.752090
+  },
 ];
